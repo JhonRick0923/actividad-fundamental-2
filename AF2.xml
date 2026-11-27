@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<intercambios_fime>
+  <universidad tipo="Nacional">
+    <nombre>Universidad Nacional Autónoma de México (UNAM - Facultad de Ingeniería)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+  </universidad>
+
+  <universidad tipo="Internacional">
+    <nombre>University of Texas at Austin</nombre>
+    <pais>Estados Unidos</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Inglés (TOEFL iBT mínimo 80 puntos)</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente y visa</documentos_clave>
+  </universidad>
+</intercambios_fime>
