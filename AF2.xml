@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<intercambios_fime xmlns:html="http://www.w3.org/1999/xhtml">
+  <html:a href="https://dvdatogro-123.github.io/AF03-PIA/" class="btn-regresar" onclick="return confirm('¿Estás seguro de que deseas regresar a la página principal?');">⬅️ Regresar</html:a>
+
+  <!-- Universidades Nacionales -->
+  <universidad tipo="Nacional">
+    <html:img src="images/UNAM_logo.png" alt="Logo UNAM" class="logo-uni" />
+    <nombre>Universidad Nacional Autónoma de México (UNAM - Facultad de Ingeniería)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+    <html:button class="btn-alerta" onclick="alert('UNAM (Nacional): Recuerda tramitar tu carta de postulación en la Coordinación de Movilidad de FIME antes del cierre de convocatoria.');">🔔 Ver aviso de trámite</html:button>
+  </universidad>
+
+  <universidad tipo="Nacional">
+    <html:img src="images/IPN_logo.png" alt="Logo IPN" class="logo-uni" />
+    <nombre>Instituto Politécnico Nacional (IPN)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+    <html:button class="btn-alerta" onclick="alert('IPN (Nacional): Verifica la equivalencia de materias con tu coordinador de carrera en FIME antes de postularte.');">🔔 Ver aviso de trámite</html:button>
+  </universidad>
+
+  <universidad tipo="Nacional">
+    <html:img src="images/UDEG_logo.png" alt="Logo UdeG" class="logo-uni" />
+    <nombre>Universidad de Guadalajara (UdeG)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+    <html:button class="btn-alerta" onclick="alert('UdeG (Nacional): Asegúrate de contar con tu seguro facultativo vigente durante todo el semestre de intercambio.');">🔔 Ver aviso de trámite</html:button>
+  </universidad>
+
+  <!-- Universidades Internacionales -->
+  <universidad tipo="Internacional">
+    <html:img src="images/UTA_logo.png" alt="Logo UT Austin" class="logo-uni" />
+    <nombre>University of Texas at Austin</nombre>
+    <pais>Estados Unidos</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Inglés (TOEFL iBT mínimo 80 puntos)</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente y visa</documentos_clave>
+    <html:button class="btn-alerta" onclick="alert('UT Austin (Internacional): Requiere pasaporte con vigencia mínima de 6 meses, visa de estudiante y TOEFL iBT oficial.');">🔔 Ver aviso de trámite</html:button>
+  </universidad>
+
+  <universidad tipo="Internacional">
+    <html:img src="images/UPV_logo.png" alt="Logo UPV" class="logo-uni" />
+    <nombre>Universidad Politécnica de Valencia (UPV)</nombre>
+    <pais>España</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente, visa y seguro médico internacional</documentos_clave>
+    <html:button class="btn-alerta" onclick="alert('UPV (Internacional): Inicia el trámite de visa española con al menos 3 meses de anticipación.');">🔔 Ver aviso de trámite</html:button>
+  </universidad>
+
+  <universidad tipo="Internacional">
+    <html:img src="images/INSA_logo.jpg" alt="Logo INSA Lyon" class="logo-uni" />
+    <nombre>Institut National des Sciences Appliquées (INSA) de Lyon</nombre>
+    <pais>Francia</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Francés (DELF nivel B2) o Inglés (TOEFL iBT mínimo 80 puntos)</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente, visa y seguro médico internacional</documentos_clave>
+    <html:button class="btn-alerta" onclick="alert('INSA Lyon (Internacional): Deberás realizar el proceso complementario a través de Campus France.');">🔔 Ver aviso de trámite</html:button>
+  </universidad>
+</intercambios_fime>
