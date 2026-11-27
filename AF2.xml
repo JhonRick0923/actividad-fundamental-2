@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<intercambios_fime>
+  <a xmlns="http://www.w3.org/1999/xhtml" href="https://dvdatogro-123.github.io/AF03-PIA/">← Regresar</a>
+
+  <!-- Universidades Nacionales -->
+  <universidad tipo="Nacional">
+    <nombre>Universidad Nacional Autónoma de México (UNAM - Facultad de Ingeniería)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+  </universidad>
+
+  <universidad tipo="Nacional">
+    <nombre>Instituto Politécnico Nacional (IPN)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+  </universidad>
+
+  <universidad tipo="Nacional">
+    <nombre>Universidad de Guadalajara (UdeG)</nombre>
+    <pais>México</pais>
+    <programa>Movilidad Académica Nacional (ECOES / ANUIES)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, CURP y seguro médico nacional</documentos_clave>
+  </universidad>
+
+  <!-- Universidades Internacionales -->
+  <universidad tipo="Internacional">
+    <nombre>University of Texas at Austin</nombre>
+    <pais>Estados Unidos</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Inglés (TOEFL iBT mínimo 80 puntos)</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente y visa</documentos_clave>
+  </universidad>
+
+  <universidad tipo="Internacional">
+    <nombre>Universidad Politécnica de Valencia (UPV)</nombre>
+    <pais>España</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Español</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente, visa y seguro médico internacional</documentos_clave>
+  </universidad>
+
+  <universidad tipo="Internacional">
+    <nombre>Institut National des Sciences Appliquées (INSA) de Lyon</nombre>
+    <pais>Francia</pais>
+    <programa>Movilidad Académica Internacional (FIME / UANL)</programa>
+    <creditos_minimos>50% del plan de estudios aprobado</creditos_minimos>
+    <promedio_minimo>85</promedio_minimo>
+    <idioma>Francés (DELF nivel B2) o Inglés (TOEFL iBT mínimo 80 puntos)</idioma>
+    <documentos_clave>Solicitud UANL, carta de motivos, kárdex, CV, pasaporte vigente, visa y seguro médico internacional</documentos_clave>
+  </universidad>
+</intercambios_fime>
